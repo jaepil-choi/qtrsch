@@ -16,6 +16,8 @@ seaborn = "^0.13.0"
 statsmodels = "^0.14.0"
 scikit-learn = "^1.3.2"
 pykrx = "^1.0.45"
+jupyter-book = "^0.15.1"
+ghp-import = "^2.1.0"
 
 
 [build-system]
