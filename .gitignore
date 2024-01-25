@@ -189,3 +189,6 @@ pip-selfcheck.json
 ## Custom Ignores
 sandbox.py
 sandbox.ipynb
+
+## Ignore data
+data/*
