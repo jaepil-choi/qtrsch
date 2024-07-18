@@ -26,6 +26,7 @@ python-dotenv = "^1.0.1"
 ccxt = "^4.3.63"
 transformers = "^4.42.4"
 nltk = "^3.8.1"
+torch = "^2.3.1"
 
 
 [build-system]
